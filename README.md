@@ -14,9 +14,9 @@
 I'm a dedicated fullstack developer who loves blending creativity with code. From dynamic user interfaces to powerful backend logic — I enjoy building seamless and thoughtful web experiences. I'm currently diving deeper into **AI integration** and using web technologies to build meaningful products.
 
 - 🛠️ **Working On:** A tourism website with Next.js  
-- 🌱 **Learning:** GraphQL & advanced backend concepts  
-- 🤝 **Open To Collaborate On:** Fullstack or AI-integrated web projects  
-- 🧩 **Fun Fact:** I often sketch out UI ideas before coding them 🎨  
+- 🌱 **Learning:** Mongoose & advanced backend concepts
+- 🤝 **Open To Collaborate On:** Fullstack or AI-integrated web projects
+- 🧩 **Fun Fact:** I often sketch out UI ideas before coding them 🎨
 
 ---
 
