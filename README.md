@@ -57,27 +57,4 @@ I'm a dedicated fullstack developer who loves blending creativity with code. Fro
 
 ---
 
-# 📌 Pinned Repositories  
-
-## 🔹 [TourMate](https://github.com/afrinbhuiyan/tourmate)  
-🗺️ **A tourism booking platform built with Next.js**  
-🧰 **Stack:** Next.js, TailwindCSS, MongoDB  
-🔗 [Live Demo](https://tourmate-live.com)
-
----
-
-## 🔹 [DashZone](https://github.com/afrinbhuiyan/dashzone)  
-📊 **E-commerce admin dashboard with analytics and real-time data**  
-🧰 **Stack:** React, Express.js, Firebase  
-🔗 [Live Demo](https://dashzone-demo.com)
-
----
-
-## 🔹 [AI ChatSpace](https://github.com/afrinbhuiyan/ai-chatspace)  
-🤖 **AI-powered chatbot app using OpenAI API**  
-🧰 **Stack:** Python, Flask, OpenAI  
-🔗 [Live Demo](https://chatspace-ai.netlify.app)
-
----
-
 ✨ *Thanks for visiting my profile. Let’s build something awesome together!* 😊  
