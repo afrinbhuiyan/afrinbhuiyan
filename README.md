@@ -6,7 +6,7 @@
 # **Hi, I'm Mst Afrin** 👋  
 ### **Fullstack Developer | Open-Source Explorer | Creative Thinker**
 
-📍 **Dhaka, Bangladesh** | ✉️ **afrin@example.com**  
+📍 **Dhaka, Bangladesh** | ✉️ **mstafrinbhuiyan@gmail.com**  
 
 ---
 
@@ -49,10 +49,23 @@ I'm a dedicated fullstack developer who loves blending creativity with code. Fro
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/afrinbhuiyan)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/afrin_handle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox)](https://afrin-portfolio.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/afrinbhuiyan)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/mst.afrin.528517)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/afrin_6068)
+
+<p align="center">
+  <a href="https://github.com/afrinbhuiyan" target="_blank">
+    <img src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/mst.afrin.528517" target="_blank">
+    <img src="https://img.favpng.com/13/22/2/facebook-scalable-vector-graphics-icon-png-favpng-jfmfMWHVf685LcuKa5WC1jEVK.jpg" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/afrin_6068" target="_blank">
+    <img src="https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-392.jpg?semt=ais_hybrid&w=740" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
