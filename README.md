@@ -1,75 +1,83 @@
-<!-- Banner Image (Upload to repo & link here) -->
+<!-- 🌐 Banner Image -->
 <p align="center">
-  <img src="/github_banner.png" alt="Mst Afrin Banner" />
+  <img src="https://github.com/afrinbhuiyan/afrinbhuiyan/blob/main/github_banner.png?raw=true" alt="Mst Afrin Banner" />
 </p>
 
-# **Hi, I'm [Your Name]** 👋  
-### **Frontend Developer | Open-Source Enthusiast**  
+# **Hi, I'm Mst Afrin** 👋  
+### **Fullstack Developer | Open-Source Explorer | Creative Thinker**
 
-📍 **Dhaka, Bangladesh** | ✉️ **your.email@example.com**  
-
----
-
-## **🚀 About Me**  
-I'm a passionate developer with expertise in **React, Next.js, and Node.js**. I love building scalable web applications and contributing to open-source projects. Currently, I'm exploring **AI integration in web apps** and improving my backend skills.  
-
-- 🔭 **Currently Working On:** A tourism website using Next.js  
-- 🌱 **Learning:** Advanced TypeScript & GraphQL  
-- 👯 **Looking to Collaborate:** On open-source projects  
-- ⚡ **Fun Fact:** I love playing chess ♟️  
+📍 **Dhaka, Bangladesh** | ✉️ **afrin@example.com**  
 
 ---
 
-## **🛠️ Tech Stack**  
+## 🚀 About Me  
+I'm a dedicated fullstack developer who loves blending creativity with code. From dynamic user interfaces to powerful backend logic — I enjoy building seamless and thoughtful web experiences. I'm currently diving deeper into **AI integration** and using web technologies to build meaningful products.
+
+- 🛠️ **Working On:** A tourism website with Next.js  
+- 🌱 **Learning:** GraphQL & advanced backend concepts  
+- 🤝 **Open To Collaborate On:** Fullstack or AI-integrated web projects  
+- 🧩 **Fun Fact:** I often sketch out UI ideas before coding them 🎨  
+
+---
+
+## 🧰 Tech Stack  
 
 ### **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css)
 
 ### **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
-### **Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+### **Tools I Use**  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
 
 ---
 
-## **📊 GitHub Stats**  
+## 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)  
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)  
-
----
-
-## **🌐 Connect With Me**  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yourname)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox)](https://yourportfolio.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/yourusername)
+![Afrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afrinbhuiyan&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afrinbhuiyan&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=afrinbhuiyan&theme=radical)  
 
 ---
 
-# **📌 Pinned Repositories**  
+## 🌐 Connect With Me  
 
-## **1. [Project Name](https://github.com/yourusername/repo-name)**  
-🔹 **A tourism booking platform built with Next.js**  
-🔹 **Tech Stack:** Next.js, TailwindCSS, MongoDB  
-🔹 [Live Demo](https://your-project-demo.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/afrinbhuiyan)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/afrin_handle)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox)](https://afrin-portfolio.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/afrinbhuiyan)
 
-## **2. [Project Name](https://github.com/yourusername/repo-name)**  
-🔹 **E-commerce dashboard with React & Node.js**  
-🔹 **Tech Stack:** React, Express, Firebase  
-🔹 [Live Demo](https://your-project-demo.com)  
+---
 
-## **3. [Project Name](https://github.com/yourusername/repo-name)**  
-🔹 **AI-powered chatbot using Python & Flask**  
-🔹 **Tech Stack:** Python, Flask, OpenAI API  
-🔹 [Live Demo](https://your-project-demo.com)  
+# 📌 Pinned Repositories  
+
+## 🔹 [TourMate](https://github.com/afrinbhuiyan/tourmate)  
+🗺️ **A tourism booking platform built with Next.js**  
+🧰 **Stack:** Next.js, TailwindCSS, MongoDB  
+🔗 [Live Demo](https://tourmate-live.com)
+
+---
+
+## 🔹 [DashZone](https://github.com/afrinbhuiyan/dashzone)  
+📊 **E-commerce admin dashboard with analytics and real-time data**  
+🧰 **Stack:** React, Express.js, Firebase  
+🔗 [Live Demo](https://dashzone-demo.com)
+
+---
+
+## 🔹 [AI ChatSpace](https://github.com/afrinbhuiyan/ai-chatspace)  
+🤖 **AI-powered chatbot app using OpenAI API**  
+🧰 **Stack:** Python, Flask, OpenAI  
+🔗 [Live Demo](https://chatspace-ai.netlify.app)
+
+---
+
+✨ *Thanks for visiting my profile. Let’s build something awesome together!* 😊  
