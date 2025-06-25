@@ -1,5 +1,7 @@
 <!-- Banner Image (Upload to repo & link here) -->
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile](https://github.com/yourusername/yourusername/blob/main/github_banner.png?raw=true)
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/main/github_banner.png?raw=true" alt="Mst Afrin Banner" />
+</p>
 
 # **Hi, I'm [Your Name]** 👋  
 ### **Frontend Developer | Open-Source Enthusiast**  
