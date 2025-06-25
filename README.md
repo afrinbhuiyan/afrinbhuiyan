@@ -1,6 +1,6 @@
 <!-- Banner Image (Upload to repo & link here) -->
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/github_banner.png?raw=true" alt="Mst Afrin Banner" />
+  <img src="/github_banner.png" alt="Mst Afrin Banner" />
 </p>
 
 # **Hi, I'm [Your Name]** 👋  
