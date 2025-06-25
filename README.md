@@ -36,7 +36,6 @@ I'm a dedicated fullstack developer who loves blending creativity with code. Fro
 ### **Tools I Use**  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
 
 ---
 
