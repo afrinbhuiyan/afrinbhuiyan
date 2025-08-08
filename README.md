@@ -52,7 +52,7 @@ I'm a dedicated fullstack developer who loves blending creativity with code. Fro
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/afrinbhuiyan)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/mst.afrin.528517)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/afrin_6068)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afrin-bhuiyan123)
 
 ---
 
