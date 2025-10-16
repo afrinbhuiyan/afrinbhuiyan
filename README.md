@@ -13,16 +13,25 @@
 
 </div>
 
-<div align="center">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-## 🚀 About Me  
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/afrinbhuiyan/afrinbhuiyan/main/me.png?raw=true" 
+         alt="Afrin Bhuiyan" 
+         style="width: 100%; max-width: 280px; border-radius: 16px;" />
+  </div>
 
-I’m a Full Stack Developer with a passion for crafting seamless digital experiences that blend creativity with functionality. I love bringing ideas to life through clean code, thoughtful design, and intuitive user experiences.
+  <div style="flex: 2;">
 
-Whether it’s developing dynamic frontend interfaces or building scalable backend systems, I take pride in writing code that not only works but feels great to use. My approach combines technical precision with a creative mindset, ensuring every project tells a story and serves a purpose.
+  ## About Me
 
-Recently, I’ve been diving deeper into AI integration, exploring how intelligent systems can enhance user experiences and transform how we interact with technology. My goal is to use modern web technologies to build meaningful, human centered products that inspire, simplify, and connect.
+  I’m a **Full-Stack Developer** with a passion for crafting seamless digital experiences that blend creativity with functionality. I love bringing ideas to life through clean code, thoughtful design, and intuitive user experiences.  
 
+  Whether it’s developing dynamic frontend interfaces or building scalable backend systems, I take pride in writing code that not only works but feels great to use. My approach combines technical precision with a creative mindset, ensuring every project tells a story and serves a purpose.  
+
+  Recently, I’ve been diving deeper into **AI integration**, exploring how intelligent systems can enhance user experiences and transform how we interact with technology. My goal is to use modern web technologies to build meaningful, human-centered products that inspire, simplify, and connect.
+
+  </div>
 </div>
 
 ## 🧰 Tech Stack  
