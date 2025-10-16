@@ -26,8 +26,7 @@
   Whether it’s developing dynamic frontend interfaces or building scalable backend systems, I take pride in writing code that not only works but feels great to use. My approach combines technical precision with a creative mindset, ensuring every project tells a story and serves a purpose.  
 
   Recently, I’ve been diving deeper into **AI integration**, exploring how intelligent systems can enhance user experiences and transform how we interact with technology. My goal is to use modern web technologies to build meaningful, human-centered products that inspire, simplify, and connect.  
-
-    </td>
+  
   </tr>
 </table>
 
