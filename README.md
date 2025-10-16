@@ -2,15 +2,16 @@
   <img src="https://github.com/afrinbhuiyan/afrinbhuiyan/blob/main/github_banner1.png?raw=true" alt="Mst Afrin Banner" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/afrinbhuiyan/afrinbhuiyan/main/me.svg" alt="Mst Afrin - Fullstack Developer"/>
-</p>
+<div align="center">
+
+# **Hi, I'm Afrin** 
 
 ### **Fullstack Developer | Open-Source Explorer | Creative Thinker**
 
-📍 **Dhaka, Bangladesh** | ✉️ **mstafrinbhuiyan@gmail.com**  
-📞 **Contact:** +8801327368859
+**Dhaka, Bangladesh** | **mstafrinbhuiyan@gmail.com**  
+**Contact:** +8801327368859
 
+</div>
 ---
 
 ## 🚀 About Me  
