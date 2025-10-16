@@ -1,6 +1,6 @@
 <!-- 🌐 Banner Image -->
 <p align="center">
-  <img src="https://github.cm/afrinbhuiyan/afrinbhuiyan/blob/main/github_banner.png?raw=true" alt="Mst Afrin Banner" />
+  <img src="https://github.com/afrinbhuiyan/afrinbhuiyan/blob/main/github_banner.png?raw=true" alt="Mst Afrin Banner" />
 </p>
 
 # **Hi, I'm Mst Afrin** 👋  
