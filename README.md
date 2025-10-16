@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# **Hi, I'm Afrin** **Fullstack | Open-Source | Creator**
+## **Hi, I'm Afrin** 
 
---- 
+### **Fullstack | Open-Source | Creator**
 
 **Dhaka, Bangladesh** | **mstafrinbhuiyan@gmail.com**  
 **Contact:** +8801327368859
