@@ -6,7 +6,7 @@
 
 # **Hi, I'm Afrin**
 
-### **Fullstack Developer | Open-Source Explorer | Creative Thinker**
+### **Fullstack | Open-Source | Creator**
 
 **Dhaka, Bangladesh** | ✉️ **mstafrinbhuiyan@gmail.com**  
 **Contact:** +8801327368859
@@ -31,7 +31,6 @@
   </tr>
 </table>
 
----
 <div align="center">
 
 ## Tech Stack  
@@ -64,8 +63,6 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
 
----
-
 ## 🛠️ Tools & Concepts  
 
 ### **Professional Tools**  
@@ -83,8 +80,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ## 📊 GitHub Stats  
@@ -94,8 +89,6 @@
 </p>
 
 </div>
-
----
 
 <div align="center">
 
@@ -107,7 +100,6 @@
 
 </div>
 
----
 <div align="center">
 
 ✨ _Thanks for visiting my profile. Let’s build something awesome together!_ 😊
