@@ -12,18 +12,13 @@
 
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-top: 20px;">
-
-  <!-- Image Section -->
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/afrinbhuiyan/afrinbhuiyan/blob/main/me.png?raw=true" 
-         alt="Afrin Bhuiyan" 
-         style="width: 100%; max-width: 280px; border-radius: 16px;" />
-  </div>
-
-  <!-- About Section -->
-  <div style="flex: 2;">
-
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/afrinbhuiyan/afrinbhuiyan/blob/main/me.png?raw=true" width="250" alt="Afrin Bhuiyan" style="border-radius: 16px;" />
+    </td>
+    <td width="67%">
+      
   ## About Me  
 
   I’m a **Full-Stack Developer** with a passion for crafting seamless digital experiences that blend creativity with functionality. I love bringing ideas to life through clean code, thoughtful design, and intuitive user experiences.  
@@ -32,8 +27,9 @@
 
   Recently, I’ve been diving deeper into **AI integration**, exploring how intelligent systems can enhance user experiences and transform how we interact with technology. My goal is to use modern web technologies to build meaningful, human-centered products that inspire, simplify, and connect.  
 
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
