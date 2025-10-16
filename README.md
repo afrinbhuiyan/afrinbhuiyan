@@ -4,7 +4,7 @@
 
 <div align="center">
 
-## **Hi, I'm Afrin** 
+# **Hi, I'm Afrin** 
 
 ### **Fullstack | Open-Source | Creator**
 
@@ -12,6 +12,8 @@
 **Contact:** +8801327368859
 
 </div>
+
+<div align="center">
 
 ## 🚀 About Me  
 
@@ -22,7 +24,7 @@ I'm a dedicated fullstack developer who loves blending creativity with code. Fro
 - 🤝 **Open To Collaborate On:** Fullstack or AI-integrated web projects
 - 🧩 **Fun Fact:** I often sketch out UI ideas before coding them 🎨
 
----
+</div>
 
 ## 🧰 Tech Stack  
 
