@@ -2,7 +2,9 @@
   <img src="https://github.com/afrinbhuiyan/afrinbhuiyan/blob/main/github_banner1.png?raw=true" alt="Mst Afrin Banner" />
 </p>
 
-# **Hi, I'm Mst Afrin** 👋  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/afrinbhuiyan/afrinbhuiyan/main/me.svg" alt="Mst Afrin - Fullstack Developer"/>
+</p>
 
 ### **Fullstack Developer | Open-Source Explorer | Creative Thinker**
 
