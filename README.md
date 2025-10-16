@@ -78,11 +78,11 @@ I'm a dedicated fullstack developer who loves blending creativity with code. Fro
 <p align="center">
 
 ![Afrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afrinbhuiyan&show_icons=true&theme=apprentice)
-
- </p>
-<p align="center">
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afrinbhuiyan&theme=apprentice)
- </p>
+</p>
+
+
+
 ---
 
 ## 🌐 Connect With Me  
