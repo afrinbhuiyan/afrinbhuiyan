@@ -16,7 +16,7 @@
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
   <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/afrinbhuiyan/afrinbhuiyan/main/me.png?raw=true" 
+    <img src="https://github.com/afrinbhuiyan/blob/afrinbhuiyan/main/me.png?raw=true" 
          alt="Afrin Bhuiyan" 
          style="width: 100%; max-width: 280px; border-radius: 16px;" />
   </div>
