@@ -6,7 +6,7 @@
 
 # **Hi, I'm Afrin** 
 
-### **Fullstack Developer | Open-Source Explorer | Creative Thinker**
+### **Fullstack | Open-Source | Creator**
 
 **Dhaka, Bangladesh** | **mstafrinbhuiyan@gmail.com**  
 **Contact:** +8801327368859
