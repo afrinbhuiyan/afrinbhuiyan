@@ -4,15 +4,14 @@
 
 <div align="center">
 
-# **Hi, I'm Afrin** 
+**<span style="font-size: 40px;">Hi, I'm Afrin</span>**
 
-### **Fullstack | Open-Source | Creator**
+**<span style="font-size: 20px;">Fullstack | Open-Source | Creator</span>**
 
-**Dhaka, Bangladesh** | **mstafrinbhuiyan@gmail.com**  
-**Contact:** +8801327368859
+Dhaka, Bangladesh | mstafrinbhuiyan@gmail.com  
+Contact: +8801327368859
 
 </div>
----
 
 ## 🚀 About Me  
 
