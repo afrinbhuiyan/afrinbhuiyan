@@ -76,7 +76,7 @@ I'm a dedicated fullstack developer who loves blending creativity with code. Fro
 ## 📊 GitHub Stats  
 
 <p align="center">
-  ![Afrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afrinbhuiyan&show_icons=true&theme=radical)  
+  <img src="https://github-readme-stats.vercel.app/api?username=afrinbhuiyan&show_icons=true&theme=radical" alt="Afrin's GitHub Stats"/>
 </p>
 
 ---
