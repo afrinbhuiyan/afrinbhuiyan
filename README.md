@@ -4,11 +4,12 @@
 
 <div align="center">
 
-# **Hi, I'm Afrin**  
-### **Fullstack | Open-Source | Creator**  
+# **Hi, I'm Afrin**
 
-**Dhaka, Bangladesh** | **mstafrinbhuiyan@gmail.com**  
-📞 **+8801327368859**
+### **Fullstack Developer | Open-Source Explorer | Creative Thinker**
+
+**Dhaka, Bangladesh** | ✉️ **mstafrinbhuiyan@gmail.com**  
+**Contact:** +8801327368859
 
 </div>
 
@@ -31,8 +32,9 @@
 </table>
 
 ---
+<div align="center">
 
-## 🧰 Tech Stack  
+## Tech Stack  
 
 ### **Frontend & UI Libraries**  
 
@@ -79,7 +81,11 @@
 ![Accessibility](https://img.shields.io/badge/-Web%20Accessibility-000000)
 ![SEO Basics](https://img.shields.io/badge/-SEO%20Basics-4285F4)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📊 GitHub Stats  
 
@@ -87,7 +93,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=afrinbhuiyan&show_icons=true&theme=graywhite" alt="Afrin's GitHub Stats" />
 </p>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🌐 Connect With Me  
 
@@ -95,6 +105,10 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/mst.afrin.528517)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afrin-bhuiyan123)
 
+</div>
+
 ---
+<div align="center">
 
 ✨ _Thanks for visiting my profile. Let’s build something awesome together!_ 😊
+</div>
