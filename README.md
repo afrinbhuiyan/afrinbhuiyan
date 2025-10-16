@@ -76,9 +76,8 @@ I'm a dedicated fullstack developer who loves blending creativity with code. Fro
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afrinbhuiyan&show_icons=true&theme=radical" alt="Afrin's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=afrinbhuiyan&show_icons=true&theme=graywhite" alt="Afrin's GitHub Stats"/>
 </p>
-
 ---
 
 ## 🌐 Connect With Me  
