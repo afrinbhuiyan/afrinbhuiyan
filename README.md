@@ -8,9 +8,6 @@
 
 ### **Fullstack | Open-Source | Creator**
 
-**Dhaka, Bangladesh** | **mstafrinbhuiyan@gmail.com**  
-**Contact:** +8801327368859
-
 </div>
 
 <table>
@@ -92,7 +89,7 @@
 
 <div align="center">
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me 
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/afrinbhuiyan)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/mst.afrin.528517)
