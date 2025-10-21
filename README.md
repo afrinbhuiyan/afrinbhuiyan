@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/afrinbhuiyan/afrinbhuiyan/blob/main/github_banner1.png?raw=true" alt="Mst Afrin Banner" />
+  <img src="https://github.com/afrinbhuiyan/afrinbhuiyan/blob/main/github_banner1.png?raw=true" alt="" />
 </p>
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 ### **Fullstack | Open-Source | Creator**
 
-**Dhaka, Bangladesh** | ✉️ **mstafrinbhuiyan@gmail.com**  
+**Dhaka, Bangladesh** | **mstafrinbhuiyan@gmail.com**  
 **Contact:** +8801327368859
 
 </div>
