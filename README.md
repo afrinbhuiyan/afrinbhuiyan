@@ -81,9 +81,7 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afrinbhuiyan&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=afrinbhuiyan&show_icons=true&theme=graywhite" alt="Afrin's GitHub Stats" /> </p>
 
 </div>
 
