@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/afrinbhuiyan/afrinbhuiyan/blob/main/me.png?raw=true" width="250" alt="Afrin Bhuiyan" style="border-radius: 16px;" />
+      <img src="https://i.pinimg.com/originals/3b/f4/56/3bf456cfb8ca3c49f8972626a32a16a7.gif" width="250" alt="Afrin Bhuiyan" style="border-radius: 16px;" />
     </td>
     <td width="67%">
       
