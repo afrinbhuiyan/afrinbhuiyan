@@ -207,5 +207,5 @@
 
 <div align="center">
 
-✨ _Thanks for visiting my profile. Let’s build something awesome together!_ 😊
+ <img src="https://i.pinimg.com/originals/29/9b/56/299b568340339577167333011388bcb7.gif" width="40"/>  _Thanks for visiting my profile. Let’s build something awesome together!_ <img src="https://i.pinimg.com/originals/b1/16/65/b11665024465b911452b24dfee5fd8f6.gif" width="40"/> 
 </div>
