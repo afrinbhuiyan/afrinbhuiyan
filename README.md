@@ -96,14 +96,32 @@
   </tr>
 </table>
 
-<h3 align="left">Backend & Database</h3>
+<h3 align="center">Backend & Database</h3>
 <p>
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
-  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
-  <a href="#"><img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-800000.svg?logo=mongoose&logoColor=white"></a>
-  <a href="#"><img alt="REST API" src="https://img.shields.io/badge/REST%20API-5D7E8F.svg?logo=openapiinitiative&logoColor=white"></a>
-  <a href="#"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?logo=json&logoColor=white"></a>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+        <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" width="48" height="48" alt="Expressjs" />
+      <br>Expressjs
+      </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  <td align="center" width="96">
+        <img src="https://15.ie/wp-content/uploads/2019/03/Mongoose-Orange-large-Logo.png" width="48" height="48" alt="Mongoose" />
+      <br>Mongoose
+    </td>
+  <td align="center" width="96">
+        <img src="https://play-lh.googleusercontent.com/BFd23y6of_vzLBPgdsYKO0-ZW1zF5xq-fWjpRzXi8yqGH2yT6K5z8OTApWqgI9_c1z8" width="48" height="48" alt="Rest API" />
+      <br>Rest API
+    </td>
+  <td align="center" width="96">
+        <img src="https://cdn-icons-png.flaticon.com/512/12419/12419185.png" width="48" height="48" alt="JSON" />
+      <br>JSON
+    </td>
 </p>
 
 <h3 align="left">Deployment & Cloud</h3>
