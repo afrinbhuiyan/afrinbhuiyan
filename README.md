@@ -179,28 +179,24 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=afrinbhuiyan&show_icons=true&theme=graywhite" alt="Afrin's GitHub Stats" /> </p>
 
 </div>
+
 <h3 align="center">
   Connect With Me 
   <img src="https://i.pinimg.com/originals/56/71/67/5671673fd36bb627bc65b4a8da9db71c.gif" alt="sparkle" width="20" />
 </h3>
 
-<table align="center" style="border-spacing: 10px;">
+<table align="center">
   <tr>
-    <!-- X / Twitter -->
     <td align="center">
       <a href="https://x.com/afrin691101">
         <img src="https://i.pinimg.com/1200x/01/ff/84/01ff84d68ed2eb99e78af07a374f18c8.jpg" alt="X / Twitter" width="48" height="48" />
       </a>
     </td>
-
-    <!-- Facebook -->
     <td align="center">
-      <a href="https://www.facebook.com/mst.afrin.528517/">
+       <a href="https://www.facebook.com/mst.afrin.528517/">
         <img src="https://i.pinimg.com/1200x/cc/9a/13/cc9a130ef57d1b6b1f0766369c172ccf.jpg" alt="Facebook" width="48" height="48" />
       </a>
     </td>
-
-    <!-- LinkedIn -->
     <td align="center">
       <a href="https://www.linkedin.com/in/afrin-bhuiyan123">
         <img src="https://i.pinimg.com/1200x/fb/b3/09/fbb3093d674929460312350e5b56f008.jpg" alt="LinkedIn" width="48" height="48" />
