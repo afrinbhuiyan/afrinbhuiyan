@@ -19,10 +19,10 @@
       
   ## About Me  
 
-Heyyy!!! <img src="https://i.pinimg.com/originals/58/2c/e3/582ce3b536fd17c8edb9e7d50e354b1e.gif" width="50" alt="" />
+Heyyy!!!
 I’m a Full-Stack Developer who loves building stuff that looks good, feels smooth, and actually works. I mix creativity with clean code — from sleek frontends to solid backends.
 I’m super chill and always down to collab — if you’ve got cool ideas, let’s build together!
-Lately, I’ve been geeking out on AI integration, making apps smarter and more human. Always here to create things that inspire, simplify, and connect. 
+Lately, I’ve been geeking out on AI integration, making apps smarter and more human. Always here to create things that inspire, simplify, and connect.  <img src="https://i.pinimg.com/originals/58/2c/e3/582ce3b536fd17c8edb9e7d50e354b1e.gif" width="20" alt="" />
   
   </tr>
 </table>
