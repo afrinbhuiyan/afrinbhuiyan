@@ -79,18 +79,18 @@
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind CSS
+      <br>TailwindCSS
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://images.seeklogo.com/logo-png/51/2/shadcn-ui-logo-png_seeklogo-519786.png" width="65" height="65" alt="Shadcn UI" />
-      <br>Shadcn UI
+      <img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" width="65" height="65" alt="Shadcn UI" />
+      <br>ShadcnUI
     </td>
     <td align="center" width="96">
-      <img src="https://camo.githubusercontent.com/ecb38a8a03ce1c08ad023874308d0ccf28561095f26b39a0a1abee684fac4629/68747470733a2f2f706f73746373732e6f72672f6c6f676f2e737667" width="65" height="65" alt="PostCSS" />
+      <img src="https://camo.githubusercontent.com/ecb38a8a03ce1c08ad023874308d0ccf28561095f26b39a0a1abee684fac4629/68747470733a2f2f706f73746373732e6f72672f6c6f676f2e737667" width="60" height="60" alt="PostCSS" />
       <br>PostCSS
     </td>
   </tr>
