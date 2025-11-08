@@ -13,17 +13,38 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://i.pinimg.com/originals/3b/f4/56/3bf456cfb8ca3c49f8972626a32a16a7.gif" width="250" alt="Afrin Bhuiyan" style="border-radius: 16px;" />
+      <img 
+        src="https://i.pinimg.com/1200x/76/92/24/769224810757b9463410e2aac8762dd5.jpg" 
+        width="250" 
+        alt="Afrin Bhuiyan" 
+        style="border-radius: 16px;" 
+      />
     </td>
-    <td align="center" width="67%">
-### About Me  
-Heyyy!!!
-I’m a Full-Stack Developer who loves building stuff that looks good, feels smooth, and actually works. I mix creativity with clean code from sleek frontends to solid backends.
-I’m super chill and always down to collab if you’ve got cool ideas, let’s build together!
-Lately, I’ve been geeking out on AI integration, making apps smarter and more human. Always here to create things that inspire, simplify, and connect. <img src="https://i.pinimg.com/originals/58/2c/e3/582ce3b536fd17c8edb9e7d50e354b1e.gif" width="20" alt="" />
-  
+    <td align="left" width="67%">
+      <h2>Heyyy!!! 👋 About Me</h2>
+      <p>
+        I’m a <b>Full-Stack Developer</b> who loves building stuff that 
+        <i>looks good, feels smooth,</i> and actually <i>works</i>.  
+        I mix creativity with clean code — from sleek frontends to solid backends.
+      </p>
+      <p>
+        I’m super chill and always down to <b>collab</b> — 
+        if you’ve got cool ideas, let’s build together! ⚡
+      </p>
+      <p>
+        Lately, I’ve been geeking out on <b>AI integration</b>, 
+        making apps smarter and more human.  
+        Always here to create things that <i>inspire, simplify,</i> and <i>connect</i>. 
+        <img 
+          src="https://i.pinimg.com/originals/58/2c/e3/582ce3b536fd17c8edb9e7d50e354b1e.gif" 
+          width="25" 
+          alt="spark gif" 
+        />
+      </p>
+    </td>
   </tr>
 </table>
+
 
 <div align="center">
 
