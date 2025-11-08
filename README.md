@@ -50,43 +50,51 @@
 
 ## Tech Stack  
 
-<h3 align="left"> Frontend Technologies</h3>
-<p>
-  <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<h3 align="center">Frontend Technologies</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
-  <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
       <br>JavaScript
     </td>
-  <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" />
       <br>TypeScript
     </td>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
-  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white"></a>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind CSS
     </td>
-  <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-  <td align="center" width="96">
-        <img src="https://images.seeklogo.com/logo-png/51/2/shadcn-ui-logo-png_seeklogo-519786.png" alt="icon" width="65" height="65" />
+    <td align="center" width="96">
+      <img src="https://images.seeklogo.com/logo-png/51/2/shadcn-ui-logo-png_seeklogo-519786.png" width="65" height="65" alt="Shadcn UI" />
       <br>Shadcn UI
     </td>
-  <td align="center" width="96">
-        <img src="https://camo.githubusercontent.com/ecb38a8a03ce1c08ad023874308d0ccf28561095f26b39a0a1abee684fac4629/68747470733a2f2f706f73746373732e6f72672f6c6f676f2e737667" alt="icon" width="65" height="65" />
+    <td align="center" width="96">
+      <img src="https://camo.githubusercontent.com/ecb38a8a03ce1c08ad023874308d0ccf28561095f26b39a0a1abee684fac4629/68747470733a2f2f706f73746373732e6f72672f6c6f676f2e737667" width="65" height="65" alt="PostCSS" />
       <br>PostCSS
     </td>
-</p>
+  </tr>
+</table>
 
 <h3 align="left">Backend & Database</h3>
 <p>
