@@ -182,12 +182,9 @@
 
 <div align="center">
 
-## Connect With Me
 <div align="center">
+  <h3 align="center">Connect With Me</h3>
   <img src="https://i.pinimg.com/originals/56/71/67/5671673fd36bb627bc65b4a8da9db71c.gif" alt="Animated Figma Logo" width="80" />
-
-  <br><br>
-
   <a href="https://x.com/afrin691101" target="_blank">
     <img src="https://i.pinimg.com/1200x/01/ff/84/01ff84d68ed2eb99e78af07a374f18c8.jpg" alt="X / Twitter" width="48" height="48" />
   </a>
