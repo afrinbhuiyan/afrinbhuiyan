@@ -16,9 +16,7 @@
       <img src="https://i.pinimg.com/originals/3b/f4/56/3bf456cfb8ca3c49f8972626a32a16a7.gif" width="250" alt="Afrin Bhuiyan" style="border-radius: 16px;" />
     </td>
     <td align="center" width="67%">
-      
 ### About Me  
-  
 Heyyy!!!
 I’m a Full-Stack Developer who loves building stuff that looks good, feels smooth, and actually works. I mix creativity with clean code from sleek frontends to solid backends.
 I’m super chill and always down to collab if you’ve got cool ideas, let’s build together!
