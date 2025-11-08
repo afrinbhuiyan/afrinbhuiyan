@@ -186,7 +186,6 @@
 </h3>
 
 <table align="center">
-  <tr>
     <td align="center">
       <a href="https://x.com/afrin691101">
         <img src="https://i.pinimg.com/1200x/60/d3/ef/60d3ef0c9a397c45d2d25ec1380ed30d.jpg" alt="X / Twitter" width="48" height="48" style="border-radius: 16px;" />
@@ -202,7 +201,6 @@
         <img src="https://i.pinimg.com/1200x/fb/b3/09/fbb3093d674929460312350e5b56f008.jpg" alt="LinkedIn" width="48" height="48" style="border-radius: 16px;" />
       </a>
     </td>
-  </tr>
 </table>
 
 
