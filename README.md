@@ -16,19 +16,23 @@
       <img 
         src="https://i.pinimg.com/1200x/76/92/24/769224810757b9463410e2aac8762dd5.jpg" 
         width="250" 
-        alt="Afrin Bhuiyan" 
+        alt="Afrin" 
         style="border-radius: 16px;" 
       />
     </td>
     <td align="left" width="67%">
-      <h2>Heyyy!!! 👋 About Me</h2>
+       Heyyy!!! About Me <img 
+        src="https://i.pinimg.com/originals/36/3e/f8/363ef81a8222d5deb7468cf4017367bc.gif" 
+        width="20" 
+        alt="Afrin"
+      />
       <p>
         I’m a <b>Full-Stack Developer</b> who loves building stuff that 
         <i>looks good, feels smooth,</i> and actually <i>works</i>.  
         I mix creativity with clean code — from sleek frontends to solid backends.
       </p>
       <p>
-        I’m super chill and always down to <b>collab</b> — 
+        I’m super chill and always down to <b>collab</b>
         if you’ve got cool ideas, let’s build together! ⚡
       </p>
       <p>
