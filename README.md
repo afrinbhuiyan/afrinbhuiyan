@@ -19,11 +19,10 @@
       
   ## About Me  
 
-  I’m a **Full-Stack Developer** with a passion for crafting seamless digital experiences that blend creativity with functionality. I love bringing ideas to life through clean code, thoughtful design, and intuitive user experiences.  
-
-  Whether it’s developing dynamic frontend interfaces or building scalable backend systems, I take pride in writing code that not only works but feels great to use. My approach combines technical precision with a creative mindset, ensuring every project tells a story and serves a purpose.  
-
-  Recently, I’ve been diving deeper into **AI integration**, exploring how intelligent systems can enhance user experiences and transform how we interact with technology. My goal is to use modern web technologies to build meaningful, human-centered products that inspire, simplify, and connect.  
+Heyyy!!! <img src="https://i.pinimg.com/originals/58/2c/e3/582ce3b536fd17c8edb9e7d50e354b1e.gif" width="50" alt="" />
+I’m a Full-Stack Developer who loves building stuff that looks good, feels smooth, and actually works. I mix creativity with clean code — from sleek frontends to solid backends.
+I’m super chill and always down to collab — if you’ve got cool ideas, let’s build together!
+Lately, I’ve been geeking out on AI integration, making apps smarter and more human. Always here to create things that inspire, simplify, and connect. 
   
   </tr>
 </table>
