@@ -50,52 +50,53 @@
 
 ## Tech Stack  
 
-### **Frontend & UI Libraries**  
+<h3 align="left"> Frontend Technologies</h3>
+<p>
+  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
+  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white"></a>
+  <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwindcss&logoColor=white"></a>
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="Shadcn UI" src="https://img.shields.io/badge/shadcn%20UI-000000.svg?logo=nextdotjs&logoColor=white"></a>
+  <a href="#"><img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-FF6384.svg?logo=chartdotjs&logoColor=white"></a>
+  <a href="#"><img alt="PostCSS" src="https://img.shields.io/badge/PostCSS-DD3A0A.svg?logo=postcss&logoColor=white"></a>
+</p>
 
-<img 
-        src="https://camo.githubusercontent.com/49179b69f7956cc4b5e5e7987d011103b7e3ffc20c55ca4a43c8ff214c3b6796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" 
-        width="70" 
-        alt="html" 
- />
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![shadcn UI](https://img.shields.io/badge/-shadcn%20UI-000000?logo=nextdotjs&logoColor=white)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs&logoColor=white)
-![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?logo=postcss&logoColor=white)
+<h3 align="left">Backend & Database</h3>
+<p>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
+  <a href="#"><img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-800000.svg?logo=mongoose&logoColor=white"></a>
+  <a href="#"><img alt="REST API" src="https://img.shields.io/badge/REST%20API-5D7E8F.svg?logo=openapiinitiative&logoColor=white"></a>
+  <a href="#"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?logo=json&logoColor=white"></a>
+</p>
 
-### **Backend & Database**  
+<h3 align="left">Deployment & Cloud</h3>
+<p>
+  <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black"></a>
+  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
+</p>
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-800000?logo=mongoose&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-5D7E8F?logo=openapiinitiative&logoColor=white)
-![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)
+<h3 align="left">Tools</h3>
+<p>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
+  <a href="#"><img alt="Chrome DevTools" src="https://img.shields.io/badge/DevTools-4285F4.svg?logo=googlechrome&logoColor=white"></a>
+</p>
 
-### **Deployment & Cloud**  
-
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
-
-## 🛠️ Tools & Concepts  
-
-### **Professional Tools**  
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/-DevTools-4285F4?logo=googlechrome&logoColor=white)
-
-### **Core Concepts**  
-
-![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-007ACC)
-![Accessibility](https://img.shields.io/badge/-Web%20Accessibility-000000)
-![SEO Basics](https://img.shields.io/badge/-SEO%20Basics-4285F4)
-
+<h3 align="left">Core Concepts</h3>
+<p>
+  <a href="#"><img alt="Responsive Design" src="https://img.shields.io/badge/Responsive%20Design-007ACC.svg"></a>
+  <a href="#"><img alt="Accessibility" src="https://img.shields.io/badge/Web%20Accessibility-000000.svg"></a>
+  <a href="#"><img alt="SEO Basics" src="https://img.shields.io/badge/SEO%20Basics-4285F4.svg"></a>
+</p>
 </div>
 
 <div align="center">
