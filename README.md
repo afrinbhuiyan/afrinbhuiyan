@@ -15,7 +15,7 @@
     <td align="center" width="33%">
       <img src="https://i.pinimg.com/originals/3b/f4/56/3bf456cfb8ca3c49f8972626a32a16a7.gif" width="250" alt="Afrin Bhuiyan" style="border-radius: 16px;" />
     </td>
-    <td width="33%">
+    <td align="center" width="67%">
       
 ### About Me  
   
