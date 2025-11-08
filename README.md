@@ -86,10 +86,6 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" width="48" height="48" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
       <img src="https://shadcn-docs-nuxt.vercel.app/_vercel/image?url=%2Flogo.svg&w=1536&q=100" width="55" height="55" alt="Shadcn UI" />
       <br>ShadcnUI
     </td>
