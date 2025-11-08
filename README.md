@@ -86,6 +86,10 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" width="48" height="48" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
       <img src="https://shadcn-docs-nuxt.vercel.app/_vercel/image?url=%2Flogo.svg&w=1536&q=100" width="55" height="55" alt="Shadcn UI" />
       <br>ShadcnUI
     </td>
@@ -126,23 +130,45 @@
   </tr>
 </table>
 
-<h3 align="left">Deployment & Cloud</h3>
-<p>
-  <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black"></a>
-  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
-</p>
+<h3 align="center">Tools</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" width="48" height="48" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-svg-vector.svg" width="48" height="48" alt="Netlify" />
+      <br>Netlify
+    </td>
+    <td align="center" width="96">
+      <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://code.visualstudio.com/assets/branding/app-icon.png" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://developers.google.com/web/tools/images/chrome-devtools-16x9_720.png" width="48" height="48" alt="Chrome DevTools" />
+      <br>Chrome DevTools
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Tools</h3>
-<p>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
-  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
-  <a href="#"><img alt="Chrome DevTools" src="https://img.shields.io/badge/DevTools-4285F4.svg?logo=googlechrome&logoColor=white"></a>
-</p>
-
-<h3 align="left">Core Concepts</h3>
+<h3 align="center">Core Concepts</h3>
 <p>
   <a href="#"><img alt="Responsive Design" src="https://img.shields.io/badge/Responsive%20Design-007ACC.svg"></a>
   <a href="#"><img alt="Accessibility" src="https://img.shields.io/badge/Web%20Accessibility-000000.svg"></a>
