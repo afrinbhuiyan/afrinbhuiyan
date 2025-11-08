@@ -182,11 +182,23 @@
 
 <div align="center">
 
-## Connect With Me 
+## Connect With Me
+<div align="center">
+  <img src="https://i.pinimg.com/originals/56/71/67/5671673fd36bb627bc65b4a8da9db71c.gif" alt="Animated Figma Logo" width="80" />
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/afrinbhuiyan)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/mst.afrin.528517)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afrin-bhuiyan123)
+  <br><br>
+
+  <a href="https://x.com/afrin691101" target="_blank">
+    <img src="https://i.pinimg.com/1200x/01/ff/84/01ff84d68ed2eb99e78af07a374f18c8.jpg" alt="X / Twitter" width="48" height="48" />
+  </a>
+  <a href="https://www.facebook.com/mst.afrin.528517/" target="_blank">
+    <img src="https://i.pinimg.com/1200x/cc/9a/13/cc9a130ef57d1b6b1f0766369c172ccf.jpg" alt="Facebook" width="48" height="48" />
+  </a>
+  <a href="https://www.linkedin.com/in/afrin-bhuiyan123" target="_blank">
+    <img src="https://i.pinimg.com/1200x/fb/b3/09/fbb3093d674929460312350e5b56f008.jpg" alt="LinkedIn" width="48" height="48" />
+  </a>
+</div>
+
 
 </div>
 
