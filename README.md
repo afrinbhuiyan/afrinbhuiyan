@@ -15,14 +15,14 @@
     <td align="center" width="33%">
       <img src="https://i.pinimg.com/originals/3b/f4/56/3bf456cfb8ca3c49f8972626a32a16a7.gif" width="250" alt="Afrin Bhuiyan" style="border-radius: 16px;" />
     </td>
-    <td width="67%">
+    <td width="33%">
       
-  ## About Me  
-
+### About Me  
+  
 Heyyy!!!
-I’m a Full-Stack Developer who loves building stuff that looks good, feels smooth, and actually works. I mix creativity with clean code — from sleek frontends to solid backends.
-I’m super chill and always down to collab — if you’ve got cool ideas, let’s build together!
-Lately, I’ve been geeking out on AI integration, making apps smarter and more human. Always here to create things that inspire, simplify, and connect.  <img src="https://i.pinimg.com/originals/58/2c/e3/582ce3b536fd17c8edb9e7d50e354b1e.gif" width="20" alt="" />
+I’m a Full-Stack Developer who loves building stuff that looks good, feels smooth, and actually works. I mix creativity with clean code from sleek frontends to solid backends.
+I’m super chill and always down to collab if you’ve got cool ideas, let’s build together!
+Lately, I’ve been geeking out on AI integration, making apps smarter and more human. Always here to create things that inspire, simplify, and connect. <img src="https://i.pinimg.com/originals/58/2c/e3/582ce3b536fd17c8edb9e7d50e354b1e.gif" width="20" alt="" />
   
   </tr>
 </table>
@@ -78,7 +78,7 @@ Lately, I’ve been geeking out on AI integration, making apps smarter and more 
 
 <div align="center">
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=afrinbhuiyan&show_icons=true&theme=graywhite" alt="Afrin's GitHub Stats" /> </p>
 
@@ -86,7 +86,7 @@ Lately, I’ve been geeking out on AI integration, making apps smarter and more 
 
 <div align="center">
 
-## 🌐 Connect With Me 
+## Connect With Me 
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/afrinbhuiyan)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/mst.afrin.528517)
