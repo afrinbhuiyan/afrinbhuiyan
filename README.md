@@ -183,17 +183,22 @@
 <div align="center">
 
 <div align="center">
-  <h3 align="center">Connect With Me</h3>
-  <img src="https://i.pinimg.com/originals/56/71/67/5671673fd36bb627bc65b4a8da9db71c.gif" alt="Animated Figma Logo" width="80" />
+  <h3 align="center">Connect With Me <img src="https://i.pinimg.com/originals/56/71/67/5671673fd36bb627bc65b4a8da9db71c.gif" alt="" width="20" /></h3>
+<td align="center" >
   <a href="https://x.com/afrin691101" target="_blank">
     <img src="https://i.pinimg.com/1200x/01/ff/84/01ff84d68ed2eb99e78af07a374f18c8.jpg" alt="X / Twitter" width="48" height="48" />
   </a>
+  </td>
+  <td align="center" >
   <a href="https://www.facebook.com/mst.afrin.528517/" target="_blank">
     <img src="https://i.pinimg.com/1200x/cc/9a/13/cc9a130ef57d1b6b1f0766369c172ccf.jpg" alt="Facebook" width="48" height="48" />
   </a>
+    </td>
+  <td align="center" >
   <a href="https://www.linkedin.com/in/afrin-bhuiyan123" target="_blank">
     <img src="https://i.pinimg.com/1200x/fb/b3/09/fbb3093d674929460312350e5b56f008.jpg" alt="LinkedIn" width="48" height="48" />
   </a>
+    </td>
 </div>
 
 
