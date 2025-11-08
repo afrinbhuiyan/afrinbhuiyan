@@ -21,11 +21,7 @@
       />
     </td>
     <td align="left" width="67%">
-       <h4>Heyyy!!! About Me </h4> <img 
-        src="https://i.pinimg.com/originals/36/3e/f8/363ef81a8222d5deb7468cf4017367bc.gif" 
-        width="20" 
-        alt="Afrin"
-      />
+       <h4>Heyyy!!! About Me <img src="https://i.pinimg.com/originals/36/3e/f8/363ef81a8222d5deb7468cf4017367bc.gif" width="20" alt="Afrin"/></h4> 
       <p>
         I’m a <b>Full-Stack Developer</b> who loves building stuff that 
         <i>looks good, feels smooth,</i> and actually <i>works</i>.  
