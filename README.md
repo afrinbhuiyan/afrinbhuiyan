@@ -29,7 +29,7 @@
       </p>
       <p>
         I’m super chill and always down to <b>collab</b>
-        if you’ve got cool ideas, let’s build together!
+        if you’ve got cool ideas, let’s build together!!
       </p>
       <p>
         Lately, I’ve been geeking out on <b>AI integration</b>, 
