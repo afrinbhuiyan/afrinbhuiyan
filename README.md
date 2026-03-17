@@ -21,7 +21,7 @@
       />
     </td>
     <td align="left" width="67%">
-       <h3>Heyyy!!! About Me</h3> 
+       <h3>Heyyy!! About Me</h3> 
       <p>
         I’m a <b>Full-Stack Developer</b> who loves building stuff that 
         <i>looks good, feels smooth,</i> and actually <i>works</i>.  
