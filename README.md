@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="htps://github.com/afrinbhuiyan/afrinbhuiyan/blob/main/github_banner1.png?raw=true" alt="" />
-</p>
-
 <div align="center">
 
 # **Hi, I'm Afrin**
