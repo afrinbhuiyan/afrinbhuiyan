@@ -1,5 +1,6 @@
 <div align="center">
-# **Hi, I'm Afrin**
+  
+# Hi, I'm Afrin
 
 ### Fullstack | Open-Source | Creator
 
