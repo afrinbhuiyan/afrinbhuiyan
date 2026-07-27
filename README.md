@@ -1,8 +1,7 @@
 <div align="center">
-
 # **Hi, I'm Afrin**
 
-### **Fullstack | Open-Source | Creator**
+### Fullstack | Open-Source | Creator
 
 </div>
 
