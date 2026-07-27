@@ -184,16 +184,16 @@
 <table align="center">
     <p align="center">
       <a href="https://x.com/afrin691101">
-        <img src="https://i.pinimg.com/736x/80/9b/d8/809bd8b78b8016360200a382c62d8a90.jpg" alt="X / Twitter" width="48" height="48" style="border-radius: 16px;" />
+        <img src="https://i.pinimg.com/736x/7c/68/ec/7c68ec293d5e780f34e058db39d0fdb0.jpg" alt="X / Twitter" width="48" height="48" style="border-radius: 16px;" />
       </a>
       <a href="https://www.facebook.com/mst.afrin.528517/">
-        <img src="https://cdn3.iconfinder.com/data/icons/round-pink-icons-set/256/social_media_round_icons_pink_color_set_256x256_0000_facebook.png" alt="Facebook" width="48" height="48" style="border-radius: 16px;" />
+        <img src="https://i.pinimg.com/736x/3b/f0/26/3bf02672546d88f7aac29af1bb83068f.jpg" alt="Facebook" width="48" height="48" style="border-radius: 16px;" />
       </a>
       <a href="https://www.instagram.com/afrin_6068/">
-        <img src="https://i.pinimg.com/736x/51/bd/bf/51bdbf3d5b416fbe7e9d462b37f825ce.jpg" alt="instagram" width="48" height="48" style="border-radius: 16px;" />
+        <img src="https://i.pinimg.com/736x/e9/45/20/e9452050a74119ce728b3eb58f3ca840.jpg" alt="instagram" width="48" height="48" style="border-radius: 16px;" />
       </a>
        <a href="https://www.linkedin.com/in/afrin-bhuiyan123">
-        <img src="https://cdn3.iconfinder.com/data/icons/round-pink-icons-set/256/social_media_round_icons_pink_color_set_256x256_0010_linkedin.png" alt="LinkedIn" width="48" height="48" style="border-radius: 16px;" />
+        <img src="https://i.pinimg.com/1200x/86/98/62/869862914be87365f04b014b3c8931ff.jpg" alt="LinkedIn" width="48" height="48" style="border-radius: 16px;" />
       </a>
     </p>
 </table>
