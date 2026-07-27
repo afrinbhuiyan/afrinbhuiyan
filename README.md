@@ -14,7 +14,7 @@
   <tr>
     <td align="center" width="33%">
       <img 
-        src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif" 
+        src="https://i.pinimg.com/originals/5b/e5/41/5be541564e2b62448b571ade15597bd8.gif" 
         width="250" 
         alt="Afrin" 
         style="border-radius: 16px;" 
